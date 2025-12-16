@@ -17,10 +17,11 @@
   <img src="https://github-readme-streak-stats-three-ruby.vercel.app?user=11amn&theme=monokai-metallian" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-total-kinky-69.vercel.app/api?username=11amn&show_icons=true&include_all_commits=true&theme=react&cache_seconds=30&hide_border=true">
-  <img src="https://github-readme-stats-total-kinky-69.vercel.app/api/top-langs/?username=11amn&layout=compact&theme=react&hide_border=true" style="height:195px">
-</p>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
+  <img src="https://github-readme-stats-total-kinky-69.vercel.app/api?username=11amn&show_icons=true&include_all_commits=true&theme=react&cache_seconds=30&hide_border=true" width="48%">
+  <img src="https://github-readme-stats-total-kinky-69.vercel.app/api/top-langs/?username=11amn&layout=compact&theme=react&hide_border=true" width="48%">
+</div>
+
 
 
 <!--START_SECTION:waka-->
