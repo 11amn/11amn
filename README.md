@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Java Fullstack Development | JavaScript | MySQL</h3>
+<h3 align="center">Java Fullstack Development | JavaScript </h3>
 
 ![](https://komarev.com/ghpvc/?username=11amn&style=flat-square&color=blueviolet&label=Profile+Views)
 [![Last Updated ](https://badges.pufler.dev/updated/11amn/11amn)](https://github.com/11amn/)
 
-- 🌱 I’m currently learning **ReactJS, tailwindCSS, Docker**
-- 💬 Ask me about **Java, JavaScript**
+- 🌱 I’m currently learning **Java, DSA, MySQL**
+- 💬 Ask me about **HTML, CSS, Java, JavaScript**
 - 📫 How to reach me [ak1473748@gmail.com](mailto:ak1473748@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aman-kumar-singh-024456260/)
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/.....) -->
