@@ -1,4 +1,3 @@
-<!-- # Devesh Singh from [🇮🇳](https://en.m.wikipedia.org/wiki/India) -->
 
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">Java Fullstack Development | JavaScript | MySQL</h3>
