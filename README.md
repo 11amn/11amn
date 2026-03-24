@@ -70,17 +70,16 @@ Sunday                   14 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               46 mins             █████████████████░░░░░░░░   66.64 % 
-HTML                     23 mins             ████████░░░░░░░░░░░░░░░░░   33.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MineCart App             1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +97,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2026 19:29:39 UTC
+ Last Updated on 24/03/2026 19:35:07 UTC
 <!--END_SECTION:waka-->
 
 
