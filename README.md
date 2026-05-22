@@ -25,8 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2022%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.25%20thousand%20lines%20of%20code-blue?style=flat)
@@ -70,18 +68,18 @@ Sunday                   15 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     5 mins              ████████████████████░░░░░   81.81 % 
-CSS                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+HTML                     5 mins              ████████████████░░░░░░░░░   65.47 % 
+JavaScript               2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Digio-Clone FrontEnd     7 mins              █████████████████████████   100.00 % 
+Digio-Clone FrontEnd     8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +97,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:21:59 UTC
+ Last Updated on 22/05/2026 20:20:58 UTC
 <!--END_SECTION:waka-->
 
 
