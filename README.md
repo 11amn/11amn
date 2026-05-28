@@ -25,17 +25,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2024%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.54%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.66%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.6 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2026
+> 🏆 97 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,45 +41,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-🌆 Daytime                31 commits          █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌃 Evening                29 commits          █████████░░░░░░░░░░░░░░░░   35.37 % 
-🌙 Night                  19 commits          ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Tuesday                  15 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Wednesday                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Thursday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Saturday                 14 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Sunday                   15 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -97,7 +56,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:33:57 UTC
+ Last Updated on 28/05/2026 20:57:00 UTC
 <!--END_SECTION:waka-->
 
 
