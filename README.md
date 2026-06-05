@@ -70,18 +70,16 @@ Sunday                   15 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     18 mins             █████████████████░░░░░░░░   66.38 % 
-JavaScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Digio-Clone FrontEnd     28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +97,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 20:33:30 UTC
+ Last Updated on 05/06/2026 20:27:44 UTC
 <!--END_SECTION:waka-->
 
 
