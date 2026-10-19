@@ -72,18 +72,19 @@ Sunday                   15 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   33 mins             █████████████████████████   100.00 % 
+Python                   34 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CHAPTER 2 - PS           19 mins             ██████████████░░░░░░░░░░░   57.48 % 
-CHAPTER 2                12 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
-CHAPTER-1 PS             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+CHAPTER 2 - PS           19 mins             ██████████████░░░░░░░░░░░   56.40 % 
+CHAPTER 2                12 mins             █████████░░░░░░░░░░░░░░░░   36.76 % 
+CHAPTER-1 PS             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+CHAPTER 3                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:58:16 UTC
+ Last Updated on 19/10/2026 22:34:32 UTC
 <!--END_SECTION:waka-->
 
 
