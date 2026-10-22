@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
@@ -72,17 +72,18 @@ Sunday                   15 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   21 mins             █████████████████████████   100.00 % 
+Python                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CHAPTER 2 - PS           20 mins             ████████████████████████░   96.95 % 
-CHAPTER 3                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+CHAPTER 3                28 mins             ███████████░░░░░░░░░░░░░░   44.45 % 
+CHAPTER 2 - PS           19 mins             ████████░░░░░░░░░░░░░░░░░   31.07 % 
+CHAPTER 3 - PS           15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +107,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:55:33 UTC
+ Last Updated on 22/10/2026 21:52:02 UTC
 <!--END_SECTION:waka-->
 
 
