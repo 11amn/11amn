@@ -72,17 +72,17 @@ Sunday                   15 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   44 mins             █████████████████████████   100.00 % 
+Python                   43 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CHAPTER 3                28 mins             ████████████████░░░░░░░░░   64.49 % 
-CHAPTER 3 - PS           15 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
+CHAPTER 3                27 mins             ████████████████░░░░░░░░░   63.96 % 
+CHAPTER 3 - PS           15 mins             █████████░░░░░░░░░░░░░░░░   36.04 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:08:50 UTC
+ Last Updated on 26/10/2026 22:50:12 UTC
 <!--END_SECTION:waka-->
 
 
