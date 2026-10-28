@@ -45,52 +45,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-🌆 Daytime                32 commits          ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌃 Evening                29 commits          █████████░░░░░░░░░░░░░░░░   34.94 % 
-🌙 Night                  19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Tuesday                  15 commits          █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Wednesday                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Saturday                 14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Sunday                   15 commits          █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   43 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-CHAPTER 3                27 mins             ████████████████░░░░░░░░░   63.96 % 
-CHAPTER 3 - PS           15 mins             █████████░░░░░░░░░░░░░░░░   36.04 % 
-
-💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -106,7 +60,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/11amn/11amn/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:31:38 UTC
+ Last Updated on 28/10/2026 22:46:54 UTC
 <!--END_SECTION:waka-->
 
 
